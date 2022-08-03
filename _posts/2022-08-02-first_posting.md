@@ -56,7 +56,7 @@ tags: [markdown, md]
  <u>밑줄</u>
  <br/>
  
-## # 5. 인용문 (BlockQuete)
+## # 5. 인용문 (BlockQuote)
  \- **">"** 블럭 인용 문자를 사용하면 인용문 표현이 가능
  ```html
  > 인용문장
