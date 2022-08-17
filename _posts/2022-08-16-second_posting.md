@@ -2,7 +2,7 @@
 layout: post
 title:  "[Scala] 작업 경로 확인/변경, 파일 확인"
 date:   2022-08-16
-categories: [Study]
+categories: [Study, Bigdata]
 tags: [scala]
 ---
 

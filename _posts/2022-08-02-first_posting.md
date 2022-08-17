@@ -2,7 +2,7 @@
 layout: post
 title:  "마크다운 문법 정리"
 date:   2022-08-02
-categories: [Study]
+categories: [Study, etc]
 tags: [markdown, md]
 ---
 
